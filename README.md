@@ -40,4 +40,4 @@ Este é um exercício de frontend, sem backend. O campo de busca não realiza pe
 
 ## Créditos e licenciamento
 
-Bootstrap e Font Awesome mantêm suas licenças e avisos originais nos arquivos distribuídos. As imagens são utilizadas no contexto acadêmico; este repositório não concede direitos de reutilização sobre elas. Ainda não foi definida uma licença para o código autoral.
+Bootstrap e Font Awesome mantêm suas licenças e avisos originais nos arquivos distribuídos. As imagens são utilizadas no contexto acadêmico; este repositório não concede direitos de reutilização sobre elas. O código autoral está sob licença MIT; veja [LICENSE](LICENSE). Essa licença não substitui as licenças das dependências nem concede direitos sobre as imagens.
